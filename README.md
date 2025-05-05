@@ -42,7 +42,7 @@ A Weather tracker that can be used to plan your day around the weather anywhere 
 ### Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.netlify.app/api?username=Precious-svg&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Precious-svg&show_icons=true&theme=radical" alt="Stats" />
   <img src="https://github-readme-stats-streak-stats.herokuapp.com/?user=Precious-svg&theme=radical" alt="Streak" />
 </p>
 
