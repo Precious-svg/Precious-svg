@@ -9,6 +9,10 @@
 -I'm constantly learning and improving my skills in React andf backend development
 -My 2025 goal is to upskill and master Backend Development and also launch my SaaS idea
 
+### Tech Stack
+
+¡[React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-thebadge)
+¡[Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 <!--
 **Precious-svg/Precious-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
