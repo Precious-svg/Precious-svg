@@ -24,7 +24,7 @@
 ### Featured Projects
 
 #### **Task Manager**
-(**Ongoing)
+(*Ongoing*)
 An advanced task and subtask trackder with real-time Firebase sync
 - Tech: React, Firebase (Auth + aFirestore), Tailwind CSS
 - Features: Subtasks, Progress Tracking, Auth
@@ -45,17 +45,15 @@ A Weather tracker that can be used to plan your day around the weather anywhere 
   <img src="https://github-readme-stats.netlify.app/api?username=Precious-svg&show_icons=true&theme=radical" alt="Stats" />
   <img src="https://github-readme-stats-streak-stats.herokuapp.com/?user=Precious-svg&theme=radical" alt="Streak" />
 </p>
-<!--
-**Precious-svg/Precious-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/precious-ogwezhi-39a4a8201?utm_source=share&utm_cam-paign=share_via&utm_content=profile&utm_mediun=ios_app)
+- [Twitter](https://x.com/adaogwezhi?s=21)
+- [Portfolio](https://preciousogwezhi.netlify.app/)
+  
+---
+
+*Thanks for visiting my profile! Feel free to reach out to me.*
