@@ -3,7 +3,7 @@
 
 ---
 
-### About Me
+###  👩🏽‍🦰 About Me
 
 -I'm passionate about perfoprmance, clean UI, and user-friendfly design
 -I'm constantly learning and improving my skills in React andf backend development
@@ -15,13 +15,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,github,firebase,mysql" />
 </p>
-
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-thebadge)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
-![Github](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -47,7 +40,14 @@ A Weather tracker that can be used to plan your day around the weather anywhere 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Precious-svg&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats-streak-stats.demolab.com/?user=Precious-svg&theme=radical" alt="Streak" />
+</p>
+
+---
+
+### 🔥 Github Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Precious-svg&theme=radical" alt="Streak" />
 </p>
 
 ---
