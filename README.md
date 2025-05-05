@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi there , I'm Precious👋</h1>
+<p align="center">Frontend Developer | React, Firbase and Tailwind CSS lover | aNode enthusiast</p>
+
+---
+
+### About Me
+
+-I'm passionate about perfoprmance, clean UI, and user-friendfly design
+-I'm constantly learning and improving my skills in React andf backend development
+-My 2025 goal is to upskill and master Backend Development and also launch my SaaS idea
 
 <!--
 **Precious-svg/Precious-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
