@@ -17,6 +17,22 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
 ![Github](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
+### Featured Projects
+
+#### **Task Manager**
+(**Ongoing)
+An advanced task and subtask trackder with real-time Firebase sync
+- Tech: React, Firebase (Auth + aFirestore), Tailwind CSS
+- Features: Subtasks, Progress Tracking, Auth
+
+### **Weather App**
+
+A Weather tracker that can be used to plan your day around the weather anywhere in the world
+- Tech: HTML, CSS, Javascript and API
+- Features: Search weather based on location, current weather and 3 hourly weather forecast
+
+[Github Repo](https://github.com/Precious-svg/weather-app) | [Live Demo](https://weather-app-precious.netlify.app/)
+
 <!--
 **Precious-svg/Precious-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
