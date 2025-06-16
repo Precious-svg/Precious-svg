@@ -5,7 +5,7 @@
 
 ###  👩🏽‍🦰 About Me
 
--I'm passionate about perfoprmance, clean UI, and user-friendfly design
+-I'm passionate about performance, clean UI, and user-friendfly design
 -I'm constantly learning and improving my skills in React andf backend development
 -My 2025 goal is to upskill and master Backend Development and also launch my SaaS idea
 
