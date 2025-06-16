@@ -22,7 +22,7 @@
 
 #### **Task Manager**
 (*Ongoing*)
-An advanced task and subtask trackder with real-time Firebase sync
+An advanced task and subtask tracker with real-time Firebase sync
 - Tech: React, Firebase (Auth + aFirestore), Tailwind CSS
 - Features: Subtasks, Progress Tracking, Auth
 
